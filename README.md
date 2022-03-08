@@ -1,0 +1,2 @@
+# criptopranks
+crypto pranks learning
